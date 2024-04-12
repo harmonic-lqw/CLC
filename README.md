@@ -1,2 +1,2 @@
 # CLC
-The source code will be released soon.
+Official Implementation of CLC.
